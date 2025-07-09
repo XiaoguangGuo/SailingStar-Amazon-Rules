@@ -4,19 +4,32 @@ This project is to set up a rules reciprocity for Amazon Sellers.  This reciproc
 Go as far as codes can do .
 
 Structure Scheme:
-"
+
+
 -Nature Language Layer
+
   --Stragety
+  
   --Operation rules
+  
   --Conflicts Resolution
+  
 -Codes layer
+
   --Manually analyze "Nature Language Layer" to change it to codes
-  --LLM analyze "Nature Language Layer" to change it to codes.
-  -- Human in loop to adjust codes by analyze Nature Language Layer
+  
+  --LLM analyzes "Nature Language Layer" to change it to codes.
+  
+  -- Human in loop to adjust codes by analyzing Nature Language Layer
+  
 -interface
-  --interface to Python Programe
+
+  --interface to Python Program
+  
   --interface to machine learning
+  
   --interface to LLM 
-  --interface to production software for other programe language
-"
+  
+  --interface to production software for other programing language.
+
 
