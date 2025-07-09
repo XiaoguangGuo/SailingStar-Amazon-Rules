@@ -24,12 +24,12 @@ Structure Scheme:
   
 -interface
 
-  --interface to Python Program
+  --interface to Python Programme
   
   --interface to machine learning
   
   --interface to LLM 
   
-  --interface to production software for other programing language.
+  --interface to production software for other programming language.
 
 
